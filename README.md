@@ -1,7 +1,8 @@
 # GDP推移シミュレーター（政府支出・乗数効果モデル）
 
 マクロ経済学における基本的なGDP決定理論（乗数効果）を取り入れた、シンプルな経済成長推移シミュレーションWebアプリケーションです。PHPベースで動作し、ブラウザ上で直感的にパラメータを変更して経済予測を試すことができます。
-
+<img width="1032" height="983" alt="スクリーンショット 2026-05-22 031048" src="https://github.com/user-attachments/assets/72cb3f8d-259d-4a81-a138-7a5a5bcf4e10" />
+<img width="1133" height="948" alt="スクリーンショット 2026-05-22 031059" src="https://github.com/user-attachments/assets/b2e7824a-337f-43ac-97b6-c6b0579d2e56" />
 ## 🚀 機能特徴
 
 - **民間の自然成長シミュレーション:** 初期GDPに対する純粋な民間経済の自律的成長を計算。
@@ -46,5 +47,4 @@ http://localhost:8000/gdp_sim_advanced.php
 
 📝 ライセンス
 MIT License
-<img width="1032" height="983" alt="スクリーンショット 2026-05-22 031048" src="https://github.com/user-attachments/assets/72cb3f8d-259d-4a81-a138-7a5a5bcf4e10" />
-<img width="1133" height="948" alt="スクリーンショット 2026-05-22 031059" src="https://github.com/user-attachments/assets/b2e7824a-337f-43ac-97b6-c6b0579d2e56" />
+
